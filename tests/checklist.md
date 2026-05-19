@@ -1,0 +1,45 @@
+# Forecast Checklist
+
+Before finalizing a forecast, check:
+
+- Is the city, district, market type, and forecast horizon clear?
+- Is user purpose identified as self-use, investment, research, or risk check?
+- If the user asks "最新/当前/现在/最近/今年/未来几个月", did the forecast execute Fresh Data Retrieval Rule?
+- If web search is unavailable, does the output clearly state that latest data cannot be fetched automatically?
+- Does the output include a Data Sources Used table?
+- Does each key data item show Source, Date, Quality, and Freshness?
+- Does the report avoid presenting stale data as current?
+- Does the report mark Missing when latest data cannot be found?
+- Does the report lower 3/6 month confidence when latest transaction or listing data is missing?
+- Does the report lower confidence when only C/D level data is available?
+- Does the report explain Data Gap when latest data cannot be obtained?
+- Does the report distinguish User-Provided Data Mode from Fresh Data Retrieval Mode?
+- Does the report avoid fabricating latest data?
+- Are price, transaction, inventory, valuation, credit, and policy signals covered?
+- Is district segmentation visible instead of relying only on city-wide averages?
+- Is the conclusion supported by actual market data rather than policy wording alone?
+- Is economic cycle considered?
+- Is population inflow or outflow considered?
+- Does the forecast avoid allowing macro variables to over-influence the final conclusion?
+- Does the report state that economic cycle and population flow are correction factors only?
+- Does the core-area versus outer-suburb judgment reflect population quality differences?
+- Are missing data points marked as Data Gap?
+- Is confidence lowered when important data is missing?
+- Does the report output a 3/6/12/24 month probability table?
+- Does each probability row sum to 100%?
+- Are Minimal Multi-Agent Results included?
+- Is Bear Case Review included?
+- Is Data Quality marked for key signals?
+- Are self-use and investment recommendations separated?
+- Is new-home price distortion handled?
+- Is Data Gap Confidence Cap applied?
+- Does the forecast avoid treating asking prices as transaction prices?
+- Does the forecast avoid treating new-home filing prices as real transaction prices?
+- Is the composite score formula clearly written as Score × Weight / 100?
+- Are search query templates available for fresh data retrieval?
+- Is land auction data search priority included?
+- Is sentiment score capped when based only on C/D level evidence?
+- Does the output include traceable source name and date when fresh data is used?
+- Does the report avoid calling data "latest" when source date is unclear?
+- Does the report mark snippet-only evidence as weak evidence?
+- Does every formal forecast include the disclaimer: 仅供交流学习娱乐，不提供投资建议，所有解释权归作者所有。
