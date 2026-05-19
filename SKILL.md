@@ -1,4 +1,4 @@
-# China Real Estate Quant Forecast Skill
+# 中国房地产趋势预测 Skill / China Real Estate Trend Forecast Skill
 
 Use this skill to produce concise, evidence-driven forecasts for Chinese residential real estate markets. Keep the analysis centered on housing-market data: price trend, transaction volume, inventory or listings, valuation, credit conditions, policy changes, and district segmentation.
 

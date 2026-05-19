@@ -1,4 +1,4 @@
-# 中国房地产量化预测 Skill 使用说明
+# 中国房地产趋势预测 Skill / China Real Estate Trend Forecast Skill — 使用说明
 
 这是一个轻量级中国楼市预测 Skill，用于辅助判断新房、二手房、核心区、远郊、新区和卫星城的价格趋势、风险和概率。它保留多 Agent、评分模型、概率预测、Bear Case Review、自住/投资分离等能力，并新增“最新市场数据检索层”。
 
